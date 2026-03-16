@@ -1,0 +1,20 @@
+{
+  "name": "goiteens-js-hw-04-nodejs",
+  "version": "1.0.0",
+  "description": "Мій перший проєкт на Node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helen0105/goiteens-js-hw-04-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Olena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helen0105/goiteens-js-hw-04-nodejs/issues"
+  },
+  "homepage": "https://github.com/Helen0105/goiteens-js-hw-04-nodejs#readme"
+}
